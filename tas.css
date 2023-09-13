@@ -1,0 +1,12 @@
+div.main{ justify-content: center; height: 458px; margin: auto; align-items: center;}
+ul.m{height: 350px; width:200px; background-color: #585fbc; border-radius: 30px; list-style: none; justify-content: center; align-items: center; margin: auto; padding-top: 10px; border:1px solid gray;} 
+li.x{height: 70;  margin-top: `15px; width: 160px; font-size: 50px; border:1px solid gray; }
+li.y{background-color: black; height: 80px; width:80; border-radius:80px; margin-top:101px }
+li.r{background-color: cadetblue; height: 22px; width: 22px; border-radius: 22px;  margin-left: 105px;  }
+ul.g{border-color: blue; border:2px solid  blue; height: 199px; width: 130px; background-color: aquamarine;  position: fixed;}
+button.yes{color: green; background-color: deepskyblue;padding: 12px;border-radius: 8px; }
+button.no{color:white; background-color:red; border: none;padding: 12px;border-radius: 8px; padding-left: -5px }
+div.alert3 button{margin: 40px; }
+div.alert3{display: none;}
+hr{width: 500px;background-color: deepskyblue}
+p{padding: 10px;}
